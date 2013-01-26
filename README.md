@@ -1,6 +1,8 @@
 Soysrc.sh
 =========
 
+[![Build Status](https://travis-ci.org/hansode/soysrc.png)](https://travis-ci.org/hansode/soysrc)
+
 Usage
 -----
 
