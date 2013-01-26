@@ -4,7 +4,7 @@
 #  bash
 #
 
-SOYSRC_PATH=${SOYSRC_PATH:-".:${HOME}/.soysrc"}
+SOYSRC_PATH=${SOYSRC_PATH:-"${HOME}/.soysrc.d:."}
 
 function soysrc() {
   local file_path=$1
